@@ -5,6 +5,8 @@
 #### Cinthia Katiane (cinthia.cka@gmail.com)
 #### Pedro Pereira (pedrovictor_102@hotmail.com)
 
+## Vídeo da apresentação do trabalho: https://youtu.be/5DahXVVOhvA
+
 ## Visão geral:
 
 Esse projeto foi realizado para a disciplina de Probabilidade e tem como objetivo a análise exploratória de dados, e a visualização exploratória e estatística desses dados, além de desenvolver a capacidade de resolver problemas, trabalho em equipe e análise crítica.
@@ -22,7 +24,7 @@ Esse projeto foi realizado para a disciplina de Probabilidade e tem como objetiv
 
 ## Descrição do projeto:
 
-Esse projeto consiste em um sistema de visualização dos dados de avaliação dos docentes. Ele usa os dados abertos da UFRN como fonte principal de informação e algumas bibliotecas do Python para permitir a manipulação dos dados e criação de gráficos e tabelas. O projeto também nos direciona para estudos interessantes do ponto de vista do aluno e dos professores, para conhecer mais sobre os índices de avaliação que todos nós(alunos) respondemos, mas nunca chegamos a ver seus resultados.   
+Esse projeto consiste em um sistema de visualização dos dados de avaliação dos docentes. Ele usa os dados abertos da UFRN como fonte principal de informação e algumas bibliotecas do Python para permitir a manipulação dos dados e criação de gráficos e tabelas. O projeto também nos direciona para estudos interessantes do ponto de vista do aluno e dos professores, para conhecer mais sobre os índices de avaliação que todos nós(alunos) respondemos, mas nunca chegamos a ver seus resultados.  
 
 ## Objetivo
 
@@ -46,6 +48,9 @@ O Seaborn é uma biblioteca de visualização Python baseada no matplotlib. Ele 
 Widgets são objetos python agitados que têm uma representação no navegador, geralmente como um controle como um controle deslizante, uma caixa de texto etc.
 
 ## Links
+
+### Vídeo - Apresentação do projeto
+https://youtu.be/5DahXVVOhvA
 
 #### Dados abertos UFRN
 http://dados.ufrn.br/
