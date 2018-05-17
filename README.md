@@ -3,7 +3,7 @@
 ### Grupo:
 #### Andre Lourenço (lourencoandre80@gmail.com)
 #### Cinthia Katiane (cinthia.cka@gmail.com)
-#### Pedro Pereira ()
+#### Pedro Pereira (pedrovictor_102@hotmail.com)
 
 ## Visão geral:
 
@@ -51,8 +51,13 @@ Widgets são objetos python agitados que têm uma representação no navegador, 
 http://dados.ufrn.br/
 
 #### Bibliotecas
+##### Pandas
 https://pandas.pydata.org/
+##### NumPy
 http://www.numpy.org/
+##### Matplotlib
 https://matplotlib.org/
+##### Seaborn
 https://seaborn.pydata.org/
+##### ipywidgets
 https://ipywidgets.readthedocs.io/en/latest/
